@@ -15,8 +15,8 @@ FEEDBACKS = ['Bom', 'Regular', 'Ruim']
 
 IDADE_MIN = 16
 IDADE_MAX = 70
-RENDA_MIN = 1542   # 1 salário mínimo
-RENDA_MAX = 15420  # 10 salários mínimos
+RENDA_MIN = 1300   # 1 salário mínimo
+RENDA_MAX = 13000  # 10 salários mínimos
 
 PROBABILIDADE_FALTA = 0.05  # 5% de chance de campo estar vazio
 

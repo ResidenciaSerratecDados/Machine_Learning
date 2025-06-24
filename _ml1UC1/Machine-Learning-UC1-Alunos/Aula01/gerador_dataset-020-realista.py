@@ -11,8 +11,8 @@ CAPITAIS = [
 ]
 
 CATEGORIAS = ['A', 'B']
-MIN_SALARIO = 1542
-MAX_SALARIO = 15420
+MIN_SALARIO = 1300
+MAX_SALARIO = 13000
 IDADE_MIN = 16
 IDADE_MAX = 70
 PROBABILIDADE_FALTA = 0.05  # 5% de chance de falta em cada campo opcional
@@ -28,15 +28,15 @@ def gerar_nota():
 
 def determinar_feedback(idade, renda, categoria, nota):
     """Determina feedback com base em múltiplas variáveis."""
-    if idade < 18 and renda > 6000:
+    if idade < 18 and renda > 5000:
         return random.choice(['Regular', 'Ruim'])  # Situação improvável
     elif categoria == 'A' and nota >= 7:
-        if renda < 3500:
+        if renda < 2500:
             return 'Bom' if random.random() < 0.7 else 'Regular'
         else:
             return 'Bom'
     elif categoria == 'B' and nota >= 6:
-        if renda > 11000:
+        if renda > 9000:
             return 'Regular'  # Desconforto com alto salário em categoria B
         else:
             return 'Bom' if random.random() < 0.5 else 'Regular'
@@ -48,7 +48,7 @@ def determinar_feedback(idade, renda, categoria, nota):
         else:
             return random.choice(['Regular', 'Ruim'])
     else:
-        if renda < 2500:
+        if renda < 1500:
             return 'Bom' if random.random() < 0.8 else 'Regular'
         else:
             return 'Bom'

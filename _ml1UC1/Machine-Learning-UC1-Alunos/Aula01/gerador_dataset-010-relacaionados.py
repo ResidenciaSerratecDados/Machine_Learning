@@ -11,8 +11,8 @@ CAPITAIS = [
 ]
 
 CATEGORIAS = ['A', 'B']
-MIN_SALARIO = 1542
-MAX_SALARIO = 15420 # 10 salarios minimos aproximadamente
+MIN_SALARIO = 1300
+MAX_SALARIO = 13000  # 10 salarios minimos aproximadamente
 
 def gerar_idade():
     return random.randint(16, 70)
@@ -26,19 +26,19 @@ def gerar_nota():
 def determinar_feedback(nota, renda, categoria):
     # Regras simples e aleatorias para diversificar o feedback
     if nota >= 7.5:
-        if renda < 4000 and categoria == 'A':
+        if renda < 3000 and categoria == 'A':
             return 'Bom'
-        elif renda > 12000:
+        elif renda > 10000:
             return random.choice(['Regular', 'Bom'])
         else:
             return 'Bom'
     elif 4 <= nota < 7.5:
-        if renda > 9000 or categoria == 'B':
+        if renda > 8000 or categoria == 'B':
             return 'Regular'
         else:
             return 'Bom' if random.random() < 0.3 else 'Regular'
     else:
-        if renda < 3000:
+        if renda < 2000:
             return 'Ruim'
         else:
             return random.choice(['Ruim', 'Regular'])

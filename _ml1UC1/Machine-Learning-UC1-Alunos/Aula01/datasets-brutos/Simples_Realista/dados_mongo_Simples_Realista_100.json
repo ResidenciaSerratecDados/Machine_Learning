@@ -1,0 +1,902 @@
+[
+  {
+    "id": 1,
+    "idade": 41.0,
+    "renda": 7581.61,
+    "cidade": "Rio de Janeiro",
+    "categoria": "B",
+    "nota": 8.4,
+    "feedback": "Ruim"
+  },
+  {
+    "id": 2,
+    "idade": 38.0,
+    "renda": 8626.87,
+    "cidade": "Belo Horizonte",
+    "categoria": "A",
+    "nota": 2.2,
+    "feedback": "Ruim"
+  },
+  {
+    "id": 3,
+    "idade": 65.0,
+    "renda": 7742.99,
+    "cidade": "São Paulo",
+    "categoria": "A",
+    "nota": 1.2,
+    "feedback": "Bom"
+  },
+  {
+    "id": 4,
+    "idade": 59.0,
+    "renda": 6357.36,
+    "cidade": "Vitória",
+    "categoria": "B",
+    "nota": 9.5,
+    "feedback": "Ruim"
+  },
+  {
+    "id": 5,
+    "idade": 63.0,
+    "renda": 11899.3,
+    "cidade": "Vitória",
+    "categoria": "A",
+    "nota": 1.2,
+    "feedback": "Bom"
+  },
+  {
+    "id": 6,
+    "idade": 27.0,
+    "renda": 11877.63,
+    "cidade": "Belo Horizonte",
+    "categoria": "B",
+    "nota": 5.5,
+    "feedback": "Regular"
+  },
+  {
+    "id": 7,
+    "idade": 19.0,
+    "renda": 3981.32,
+    "cidade": "Rio de Janeiro",
+    "categoria": "A",
+    "nota": 9.1,
+    "feedback": "Regular"
+  },
+  {
+    "id": 8,
+    "idade": 32.0,
+    "renda": 2661.8,
+    "cidade": "Belo Horizonte",
+    "categoria": "A",
+    "nota": 6.0,
+    "feedback": 0
+  },
+  {
+    "id": 9,
+    "idade": 19.0,
+    "renda": 5182.09,
+    "cidade": "Belo Horizonte",
+    "categoria": "A",
+    "nota": 6.8,
+    "feedback": "Ruim"
+  },
+  {
+    "id": 10,
+    "idade": 22.0,
+    "renda": 2897.03,
+    "cidade": "Rio de Janeiro",
+    "categoria": "B",
+    "nota": 4.3,
+    "feedback": "Regular"
+  },
+  {
+    "id": 11,
+    "idade": 18.0,
+    "renda": 1354.22,
+    "cidade": "Rio de Janeiro",
+    "categoria": "A",
+    "nota": 3.0,
+    "feedback": "Regular"
+  },
+  {
+    "id": 12,
+    "idade": 52.0,
+    "renda": 5229.74,
+    "cidade": "Vitória",
+    "categoria": "A",
+    "nota": 8.4,
+    "feedback": "Ruim"
+  },
+  {
+    "id": 13,
+    "idade": 50.0,
+    "renda": 10498.29,
+    "cidade": "Rio de Janeiro",
+    "categoria": "B",
+    "nota": 9.1,
+    "feedback": "Regular"
+  },
+  {
+    "id": 14,
+    "idade": 64.0,
+    "renda": 7964.35,
+    "cidade": "Belo Horizonte",
+    "categoria": "A",
+    "nota": 2.3,
+    "feedback": "Regular"
+  },
+  {
+    "id": 15,
+    "idade": 67.0,
+    "renda": 2685.99,
+    "cidade": "Vitória",
+    "categoria": "A",
+    "nota": 0.6,
+    "feedback": "Bom"
+  },
+  {
+    "id": 16,
+    "idade": 56.0,
+    "renda": 5573.24,
+    "cidade": "Vitória",
+    "categoria": "B",
+    "nota": 1.9,
+    "feedback": "Bom"
+  },
+  {
+    "id": 17,
+    "idade": 36.0,
+    "renda": 12528.11,
+    "cidade": "São Paulo",
+    "categoria": "B",
+    "nota": 9.3,
+    "feedback": "Regular"
+  },
+  {
+    "id": 18,
+    "idade": 57.0,
+    "renda": 8535.96,
+    "cidade": "São Paulo",
+    "categoria": "A",
+    "nota": 5.1,
+    "feedback": "Regular"
+  },
+  {
+    "id": 19,
+    "idade": 27.0,
+    "renda": 3717.0,
+    "cidade": "Rio de Janeiro",
+    "categoria": "A",
+    "nota": 5.1,
+    "feedback": "Bom"
+  },
+  {
+    "id": 20,
+    "idade": 42.0,
+    "renda": 1815.32,
+    "cidade": "Rio de Janeiro",
+    "categoria": "B",
+    "nota": 8.9,
+    "feedback": "Ruim"
+  },
+  {
+    "id": 21,
+    "idade": 44.0,
+    "renda": 7624.69,
+    "cidade": "São Paulo",
+    "categoria": "B",
+    "nota": 0.6,
+    "feedback": "Bom"
+  },
+  {
+    "id": 22,
+    "idade": 50.0,
+    "renda": 6305.18,
+    "cidade": "Belo Horizonte",
+    "categoria": "B",
+    "nota": 7.1,
+    "feedback": "Bom"
+  },
+  {
+    "id": 23,
+    "idade": 35.0,
+    "renda": 4756.29,
+    "cidade": "Belo Horizonte",
+    "categoria": "B",
+    "nota": 7.8,
+    "feedback": "Bom"
+  },
+  {
+    "id": 24,
+    "idade": 70.0,
+    "renda": 6083.65,
+    "cidade": "São Paulo",
+    "categoria": "B",
+    "nota": 0.7,
+    "feedback": "Regular"
+  },
+  {
+    "id": 25,
+    "idade": 18.0,
+    "renda": 9432.76,
+    "cidade": "Rio de Janeiro",
+    "categoria": "B",
+    "nota": 7.1,
+    "feedback": "Ruim"
+  },
+  {
+    "id": 26,
+    "idade": 53.0,
+    "renda": 9384.49,
+    "cidade": "São Paulo",
+    "categoria": "B",
+    "nota": 9.1,
+    "feedback": "Ruim"
+  },
+  {
+    "id": 27,
+    "idade": 24.0,
+    "renda": 9263.97,
+    "cidade": "Rio de Janeiro",
+    "categoria": "B",
+    "nota": 1.4,
+    "feedback": "Ruim"
+  },
+  {
+    "id": 28,
+    "idade": 42.0,
+    "renda": 7036.88,
+    "cidade": "Vitória",
+    "categoria": "A",
+    "nota": 3.4,
+    "feedback": "Regular"
+  },
+  {
+    "id": 29,
+    "idade": 36.0,
+    "renda": 5514.12,
+    "cidade": "Belo Horizonte",
+    "categoria": "B",
+    "nota": 3.3,
+    "feedback": "Regular"
+  },
+  {
+    "id": 30,
+    "idade": 65.0,
+    "renda": 8054.51,
+    "cidade": "São Paulo",
+    "categoria": "A",
+    "nota": 6.1,
+    "feedback": "Bom"
+  },
+  {
+    "id": 31,
+    "idade": 60.0,
+    "renda": 12964.1,
+    "cidade": "Rio de Janeiro",
+    "categoria": "A",
+    "nota": 5.9,
+    "feedback": "Regular"
+  },
+  {
+    "id": 32,
+    "idade": 47.0,
+    "renda": 1782.97,
+    "cidade": "Vitória",
+    "categoria": "A",
+    "nota": 2.6,
+    "feedback": "Regular"
+  },
+  {
+    "id": 33,
+    "idade": 63.0,
+    "renda": 11447.36,
+    "cidade": "Rio de Janeiro",
+    "categoria": "A",
+    "nota": 8.7,
+    "feedback": "Regular"
+  },
+  {
+    "id": 34,
+    "idade": 50.0,
+    "renda": 8064.51,
+    "cidade": "Vitória",
+    "categoria": "B",
+    "nota": 3.3,
+    "feedback": "Regular"
+  },
+  {
+    "id": 35,
+    "idade": 34.0,
+    "renda": 5515.78,
+    "cidade": "São Paulo",
+    "categoria": "A",
+    "nota": 1.1,
+    "feedback": "Regular"
+  },
+  {
+    "id": 36,
+    "idade": 39.0,
+    "renda": 11323.05,
+    "cidade": "Rio de Janeiro",
+    "categoria": "B",
+    "nota": 4.2,
+    "feedback": "Regular"
+  },
+  {
+    "id": 37,
+    "idade": 38.0,
+    "renda": 8872.47,
+    "cidade": "Vitória",
+    "categoria": "B",
+    "nota": 7.0,
+    "feedback": "Bom"
+  },
+  {
+    "id": 38,
+    "idade": 69.0,
+    "renda": 3690.16,
+    "cidade": "Belo Horizonte",
+    "categoria": "A",
+    "nota": 1.3,
+    "feedback": "Regular"
+  },
+  {
+    "id": 39,
+    "idade": 22.0,
+    "renda": 3956.0,
+    "cidade": "Rio de Janeiro",
+    "categoria": "A",
+    "nota": 6.1,
+    "feedback": "Regular"
+  },
+  {
+    "id": 40,
+    "idade": 34.0,
+    "renda": 3972.03,
+    "cidade": "São Paulo",
+    "categoria": "A",
+    "nota": 8.9,
+    "feedback": "Bom"
+  },
+  {
+    "id": 41,
+    "idade": 50.0,
+    "renda": 4936.56,
+    "cidade": "São Paulo",
+    "categoria": "A",
+    "nota": 2.1,
+    "feedback": "Ruim"
+  },
+  {
+    "id": 42,
+    "idade": 68.0,
+    "renda": 5437.94,
+    "cidade": "Vitória",
+    "categoria": "A",
+    "nota": 5.4,
+    "feedback": "Bom"
+  },
+  {
+    "id": 43,
+    "idade": 23.0,
+    "renda": 7620.77,
+    "cidade": "São Paulo",
+    "categoria": "A",
+    "nota": 5.9,
+    "feedback": "Regular"
+  },
+  {
+    "id": 44,
+    "idade": 53.0,
+    "renda": 8563.63,
+    "cidade": "Belo Horizonte",
+    "categoria": "A",
+    "nota": 3.5,
+    "feedback": "Regular"
+  },
+  {
+    "id": 45,
+    "idade": 41.0,
+    "renda": 2504.32,
+    "cidade": "Vitória",
+    "categoria": "B",
+    "nota": 3.9,
+    "feedback": "Bom"
+  },
+  {
+    "id": 46,
+    "idade": 0.0,
+    "renda": 4425.14,
+    "cidade": "São Paulo",
+    "categoria": "A",
+    "nota": 3.2,
+    "feedback": "Ruim"
+  },
+  {
+    "id": 47,
+    "idade": 66.0,
+    "renda": 12312.08,
+    "cidade": "Belo Horizonte",
+    "categoria": "B",
+    "nota": 5.0,
+    "feedback": "Bom"
+  },
+  {
+    "id": 48,
+    "idade": 53.0,
+    "renda": 10498.45,
+    "cidade": "Belo Horizonte",
+    "categoria": "B",
+    "nota": 1.3,
+    "feedback": "Regular"
+  },
+  {
+    "id": 49,
+    "idade": 38.0,
+    "renda": 3369.46,
+    "cidade": "Belo Horizonte",
+    "categoria": "B",
+    "nota": 9.5,
+    "feedback": "Bom"
+  },
+  {
+    "id": 50,
+    "idade": 63.0,
+    "renda": 10294.36,
+    "cidade": 0,
+    "categoria": "A",
+    "nota": 8.2,
+    "feedback": "Bom"
+  },
+  {
+    "id": 51,
+    "idade": 35.0,
+    "renda": 11011.12,
+    "cidade": "Vitória",
+    "categoria": "B",
+    "nota": 2.3,
+    "feedback": "Regular"
+  },
+  {
+    "id": 52,
+    "idade": 35.0,
+    "renda": 6980.95,
+    "cidade": "Vitória",
+    "categoria": "B",
+    "nota": 0.0,
+    "feedback": "Ruim"
+  },
+  {
+    "id": 53,
+    "idade": 45.0,
+    "renda": 4480.08,
+    "cidade": "São Paulo",
+    "categoria": "A",
+    "nota": 8.2,
+    "feedback": "Bom"
+  },
+  {
+    "id": 54,
+    "idade": 39.0,
+    "renda": 2947.28,
+    "cidade": "Rio de Janeiro",
+    "categoria": "A",
+    "nota": 0.2,
+    "feedback": "Bom"
+  },
+  {
+    "id": 55,
+    "idade": 65.0,
+    "renda": 3582.31,
+    "cidade": "Vitória",
+    "categoria": "A",
+    "nota": 3.2,
+    "feedback": "Ruim"
+  },
+  {
+    "id": 56,
+    "idade": 34.0,
+    "renda": 12201.95,
+    "cidade": "Vitória",
+    "categoria": "B",
+    "nota": 5.8,
+    "feedback": "Regular"
+  },
+  {
+    "id": 57,
+    "idade": 60.0,
+    "renda": 11888.13,
+    "cidade": "Vitória",
+    "categoria": "A",
+    "nota": 4.4,
+    "feedback": "Bom"
+  },
+  {
+    "id": 58,
+    "idade": 69.0,
+    "renda": 11669.52,
+    "cidade": "Vitória",
+    "categoria": "B",
+    "nota": 3.9,
+    "feedback": "Ruim"
+  },
+  {
+    "id": 59,
+    "idade": 17.0,
+    "renda": 0.0,
+    "cidade": "Rio de Janeiro",
+    "categoria": "A",
+    "nota": 9.3,
+    "feedback": "Regular"
+  },
+  {
+    "id": 60,
+    "idade": 53.0,
+    "renda": 6387.82,
+    "cidade": "Belo Horizonte",
+    "categoria": "B",
+    "nota": 7.6,
+    "feedback": "Bom"
+  },
+  {
+    "id": 61,
+    "idade": 27.0,
+    "renda": 3654.31,
+    "cidade": "São Paulo",
+    "categoria": "B",
+    "nota": 1.4,
+    "feedback": "Bom"
+  },
+  {
+    "id": 62,
+    "idade": 55.0,
+    "renda": 12149.97,
+    "cidade": "Vitória",
+    "categoria": "B",
+    "nota": 8.1,
+    "feedback": "Ruim"
+  },
+  {
+    "id": 63,
+    "idade": 70.0,
+    "renda": 2577.57,
+    "cidade": "Vitória",
+    "categoria": "B",
+    "nota": 3.4,
+    "feedback": "Bom"
+  },
+  {
+    "id": 64,
+    "idade": 42.0,
+    "renda": 4032.06,
+    "cidade": "Belo Horizonte",
+    "categoria": "B",
+    "nota": 3.5,
+    "feedback": "Regular"
+  },
+  {
+    "id": 65,
+    "idade": 48.0,
+    "renda": 5234.7,
+    "cidade": "Belo Horizonte",
+    "categoria": "A",
+    "nota": 5.6,
+    "feedback": "Regular"
+  },
+  {
+    "id": 66,
+    "idade": 30.0,
+    "renda": 6453.78,
+    "cidade": "Belo Horizonte",
+    "categoria": "B",
+    "nota": 1.7,
+    "feedback": "Ruim"
+  },
+  {
+    "id": 67,
+    "idade": 62.0,
+    "renda": 3226.68,
+    "cidade": "Vitória",
+    "categoria": "B",
+    "nota": 1.9,
+    "feedback": "Bom"
+  },
+  {
+    "id": 68,
+    "idade": 24.0,
+    "renda": 10300.65,
+    "cidade": "São Paulo",
+    "categoria": "B",
+    "nota": 1.5,
+    "feedback": "Bom"
+  },
+  {
+    "id": 69,
+    "idade": 48.0,
+    "renda": 7243.45,
+    "cidade": "São Paulo",
+    "categoria": "B",
+    "nota": 8.1,
+    "feedback": "Regular"
+  },
+  {
+    "id": 70,
+    "idade": 42.0,
+    "renda": 4399.61,
+    "cidade": "Rio de Janeiro",
+    "categoria": "B",
+    "nota": 6.0,
+    "feedback": "Regular"
+  },
+  {
+    "id": 71,
+    "idade": 48.0,
+    "renda": 5363.26,
+    "cidade": "Rio de Janeiro",
+    "categoria": "B",
+    "nota": 0.5,
+    "feedback": "Bom"
+  },
+  {
+    "id": 72,
+    "idade": 33.0,
+    "renda": 11817.54,
+    "cidade": "Vitória",
+    "categoria": "A",
+    "nota": 3.4,
+    "feedback": "Regular"
+  },
+  {
+    "id": 73,
+    "idade": 58.0,
+    "renda": 8359.34,
+    "cidade": "Vitória",
+    "categoria": "B",
+    "nota": 1.8,
+    "feedback": "Regular"
+  },
+  {
+    "id": 74,
+    "idade": 28.0,
+    "renda": 3672.34,
+    "cidade": "São Paulo",
+    "categoria": "B",
+    "nota": 4.9,
+    "feedback": "Ruim"
+  },
+  {
+    "id": 75,
+    "idade": 36.0,
+    "renda": 6208.61,
+    "cidade": "São Paulo",
+    "categoria": "B",
+    "nota": 9.2,
+    "feedback": "Bom"
+  },
+  {
+    "id": 76,
+    "idade": 44.0,
+    "renda": 6369.64,
+    "cidade": "São Paulo",
+    "categoria": "A",
+    "nota": 4.5,
+    "feedback": "Bom"
+  },
+  {
+    "id": 77,
+    "idade": 68.0,
+    "renda": 5357.66,
+    "cidade": "Belo Horizonte",
+    "categoria": "A",
+    "nota": 9.6,
+    "feedback": "Ruim"
+  },
+  {
+    "id": 78,
+    "idade": 24.0,
+    "renda": 7329.32,
+    "cidade": "Vitória",
+    "categoria": "A",
+    "nota": 6.7,
+    "feedback": "Bom"
+  },
+  {
+    "id": 79,
+    "idade": 39.0,
+    "renda": 3262.94,
+    "cidade": "São Paulo",
+    "categoria": "B",
+    "nota": 2.6,
+    "feedback": "Bom"
+  },
+  {
+    "id": 80,
+    "idade": 62.0,
+    "renda": 3354.45,
+    "cidade": "São Paulo",
+    "categoria": "B",
+    "nota": 2.7,
+    "feedback": "Ruim"
+  },
+  {
+    "id": 81,
+    "idade": 24.0,
+    "renda": 7558.29,
+    "cidade": "São Paulo",
+    "categoria": "A",
+    "nota": 4.0,
+    "feedback": "Regular"
+  },
+  {
+    "id": 82,
+    "idade": 59.0,
+    "renda": 9066.84,
+    "cidade": "São Paulo",
+    "categoria": "A",
+    "nota": 0.4,
+    "feedback": "Regular"
+  },
+  {
+    "id": 83,
+    "idade": 33.0,
+    "renda": 5793.55,
+    "cidade": "Vitória",
+    "categoria": "A",
+    "nota": 8.5,
+    "feedback": "Ruim"
+  },
+  {
+    "id": 84,
+    "idade": 58.0,
+    "renda": 12544.08,
+    "cidade": "Belo Horizonte",
+    "categoria": "B",
+    "nota": 8.1,
+    "feedback": "Regular"
+  },
+  {
+    "id": 85,
+    "idade": 45.0,
+    "renda": 3633.65,
+    "cidade": "Belo Horizonte",
+    "categoria": "B",
+    "nota": 4.4,
+    "feedback": "Regular"
+  },
+  {
+    "id": 86,
+    "idade": 25.0,
+    "renda": 10115.8,
+    "cidade": "Vitória",
+    "categoria": "A",
+    "nota": 5.7,
+    "feedback": "Ruim"
+  },
+  {
+    "id": 87,
+    "idade": 66.0,
+    "renda": 4094.93,
+    "cidade": "Vitória",
+    "categoria": "B",
+    "nota": 2.0,
+    "feedback": "Ruim"
+  },
+  {
+    "id": 88,
+    "idade": 68.0,
+    "renda": 5846.3,
+    "cidade": "São Paulo",
+    "categoria": "B",
+    "nota": 5.0,
+    "feedback": "Regular"
+  },
+  {
+    "id": 89,
+    "idade": 60.0,
+    "renda": 4364.59,
+    "cidade": "Vitória",
+    "categoria": "B",
+    "nota": 0.1,
+    "feedback": "Ruim"
+  },
+  {
+    "id": 90,
+    "idade": 27.0,
+    "renda": 5841.59,
+    "cidade": "São Paulo",
+    "categoria": "A",
+    "nota": 6.4,
+    "feedback": "Regular"
+  },
+  {
+    "id": 91,
+    "idade": 17.0,
+    "renda": 5658.28,
+    "cidade": "São Paulo",
+    "categoria": "A",
+    "nota": 7.5,
+    "feedback": "Ruim"
+  },
+  {
+    "id": 92,
+    "idade": 19.0,
+    "renda": 10491.22,
+    "cidade": "São Paulo",
+    "categoria": "A",
+    "nota": 4.9,
+    "feedback": "Ruim"
+  },
+  {
+    "id": 93,
+    "idade": 66.0,
+    "renda": 10599.26,
+    "cidade": "Belo Horizonte",
+    "categoria": "A",
+    "nota": 0.0,
+    "feedback": "Bom"
+  },
+  {
+    "id": 94,
+    "idade": 46.0,
+    "renda": 12357.03,
+    "cidade": "São Paulo",
+    "categoria": "B",
+    "nota": 5.8,
+    "feedback": "Regular"
+  },
+  {
+    "id": 95,
+    "idade": 51.0,
+    "renda": 3569.53,
+    "cidade": "Vitória",
+    "categoria": "A",
+    "nota": 7.1,
+    "feedback": "Regular"
+  },
+  {
+    "id": 96,
+    "idade": 51.0,
+    "renda": 9112.51,
+    "cidade": "Belo Horizonte",
+    "categoria": "A",
+    "nota": 5.9,
+    "feedback": "Regular"
+  },
+  {
+    "id": 97,
+    "idade": 37.0,
+    "renda": 6098.8,
+    "cidade": "Belo Horizonte",
+    "categoria": "B",
+    "nota": 2.0,
+    "feedback": "Regular"
+  },
+  {
+    "id": 98,
+    "idade": 18.0,
+    "renda": 11708.21,
+    "cidade": "Rio de Janeiro",
+    "categoria": "B",
+    "nota": 5.7,
+    "feedback": "Ruim"
+  },
+  {
+    "id": 99,
+    "idade": 29.0,
+    "renda": 3429.34,
+    "cidade": "Vitória",
+    "categoria": "B",
+    "nota": 8.0,
+    "feedback": "Regular"
+  },
+  {
+    "id": 100,
+    "idade": 23.0,
+    "renda": 5285.41,
+    "cidade": "São Paulo",
+    "categoria": "A",
+    "nota": 0.1,
+    "feedback": "Regular"
+  }
+]

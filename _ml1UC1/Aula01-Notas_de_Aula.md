@@ -38,9 +38,10 @@ Ctrl C 2 vezes encerra jupyter
 python venv abre python colab selecionar kernel Python ML (venv) 3 ctrl Enter para rodar código
 
 Abrir jupiter:
-- C:\Analise_Dados_Python\_m1Uc1\m1Env\Scripts\activate.bat
-- cd C:\Analise_Dados_Python\_m1Uc1
-- jupyter lab
+-cd C:\Analise_Dados_Python\_m1Uc1\m1Env\Scripts
+-.\activate.bat
+-cd C:\Analise_Dados_Python\_m1Uc1 ou cd .. 2 vezes
+-jupyter lab
 Abrir Jupyter em casa:
 -cd E:\CienciaDadosPython\CienciaDados2\_m1Uc1\m1Env\Scripts
 -.\Activate.ps1 

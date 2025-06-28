@@ -38,10 +38,10 @@ Ctrl C 2 vezes encerra jupyter
 python venv abre python colab selecionar kernel Python ML (venv) 3 ctrl Enter para rodar código
 
 Abrir jupiter:
--cd C:\Analise_Dados_Python\_m1Uc1\m1Env\Scripts
--.\activate.bat
--cd C:\Analise_Dados_Python\_m1Uc1 ou cd .. 2 vezes
--jupyter lab
+- C:\Analise_Dados_Python\_m1Uc1\m1Env\Scripts\activate.bat
+- cd C:\Analise_Dados_Python\_m1Uc1
+- jupyter lab
+
 Abrir Jupyter em casa:
 -cd E:\CienciaDadosPython\CienciaDados2\_m1Uc1\m1Env\Scripts
 -.\Activate.ps1 
@@ -65,3 +65,15 @@ Perguntar para IA sobre as linhas de gerador de dataset os 4
 Permitir execução de Scripts no powerShell:
 -Set-ExecutionPolicy Unrestricted
 -Digite S
+
+Interromper Jupyter Lab:
+-ctrl+c
+
+
+# Funciona no CMD (Terminal de Comando)
+C:\_mlUc1\mlEnv\Scripts\deactivate.bat
+
+-----------------
+C:\_mlUc1\mlEnv\Scripts\Activate.ps1
+
+C:\_mlUc1\mlEnv\Scripts\Activate.bat
